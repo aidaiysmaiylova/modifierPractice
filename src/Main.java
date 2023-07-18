@@ -14,5 +14,7 @@ public class Main {
 //            System.out.println(girl);
 //
 Dolphin.animal1();
+Dolphin.dolphin();
 Koala.animal2();
+Koala.koala();
     }}

@@ -7,4 +7,7 @@ public class Koala extends Animal{
         Animal animal2=new Animal("Koala","Island");
        System.out.println(animal2);
    }
+    public static void koala(){
+        System.out.println("An Earth Animal");
+    }
 }

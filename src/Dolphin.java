@@ -8,4 +8,7 @@ public class Dolphin extends Animal{
         Animal animal1=new Animal("Dolphin","Ocean");
         System.out.println(animal1);
     }
+    public static void dolphin(){
+        System.out.println("Aquatic animal");
+    }
 }
